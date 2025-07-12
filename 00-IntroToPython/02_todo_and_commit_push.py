@@ -76,6 +76,8 @@ print("Hello, World")
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 ###############################################################################
 
+print(3607*34227)
+
 ###############################################################################
 # TODO: 5.
 #   Look at the list of files in the Project window (to the left).
